@@ -27,11 +27,11 @@ class Student
 
         id = aID;
 
-        grades[0] = 100;
+        grades[0] = -1;
 
-        grades[1] = 80;
+        grades[1] = -1;
 
-        grades[2] = 95;
+        grades[2] = -1;
 
     }
 
